@@ -11,4 +11,6 @@ Postar aqui algumas resoluções de problemas do Beecrowd, vou focar em postar a
 ## Outros
 
 ### Acessando problema no Beecrowd
+```
 https://www.beecrowd.com.br/judge/pt/problems/view/<id do problema>
+```
