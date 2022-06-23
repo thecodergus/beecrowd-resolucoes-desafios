@@ -1,0 +1,1 @@
+select l.name as name, (extract(day from l.payday))::integer as day from loan as l;
