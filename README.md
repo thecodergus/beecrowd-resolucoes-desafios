@@ -15,4 +15,4 @@ Postar aqui algumas resoluções de problemas do Beecrowd, vou focar em postar a
 https://www.beecrowd.com.br/judge/pt/problems/view/<id do problema>
 ```
 #### Exemplo:
-https://www.beecrowd.com.br/judge/pt/problems/view/2709 solução disponivel em [rs/2709.rs]()
+https://www.beecrowd.com.br/judge/pt/problems/view/2709 solução disponivel em [rs/2709.rs](https://github.com/thelostgus/problema-beecrowd/blob/main/rs/2709.rs)
