@@ -5,7 +5,7 @@ Postar aqui algumas resoluções de problemas do Beecrowd, vou focar em postar a
 
 ## Estutura de arquivos
 ```
-<exnteção do arquivo>/<id do problema no beecrowd>.<exnteção do arquivo>
+<extensão do arquivo>/<id do problema no beecrowd>.<extensão do arquivo>
 ```
 
 ## Outros
